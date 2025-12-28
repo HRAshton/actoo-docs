@@ -1,0 +1,9 @@
+[book]
+authors = ["HRAshton"]
+language = "en"
+src = "src"
+title = "actoo - User Guide | Manual | Docs | Documentation"
+
+[output.html]
+git-repository-url = "https://github.com/HRAshton/actoo-docs"
+edit-url-template = "https://github.com/HRAshton/actoo-docs/edit/main/{path}"
