@@ -4,7 +4,7 @@ This repository contains the source code for the
 [actoo](https://github.com/HRAshton/actoo) - Bamboo Specs executor
 inspired by [nektos/act](https://github.com/nektos/act).
 
-Compiled guide: TODO.
+Compiled guide: https://hrashton.github.io/actoo-docs
 
 ## Local Development
 
